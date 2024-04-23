@@ -235,8 +235,8 @@ if __name__ == "__main__":
         }
 
         .gallery img {
-            max-width: 396px;  /* Maximum width to stay less than half A4 width */
-            max-height: 560px; /* Maximum height to stay within a reasonable size */
+            max-width: 250px;  /* Maximum width to stay less than half A4 width */
+            max-height: 350px; /* Maximum height to stay within a reasonable size */
             width: auto;
             height: auto;
         }
